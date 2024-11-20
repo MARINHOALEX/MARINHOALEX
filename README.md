@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! 👋 Bem-vindo ao meu perfil  
+Sou **Alex Marinho**, cientista de dados com experiência em análise de dados, machine learning e visualização interativa. Trabalho desenvolvendo soluções práticas e eficientes em **previsão de vendas, detecção de fraudes e modelos preditivos** para diferentes contextos.  
 
-<!--
-**MARINHOALEX/MARINHOALEX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍 Tecnologias e Ferramentas  
+- **Linguagens:** Python, SQL  
+- **Bibliotecas:** Scikit-learn, TensorFlow, XGBoost  
+- **Visualização:** Power BI, Matplotlib, Seaborn, Plotly  
+- **Áreas:** Classificação, Regressão, Séries Temporais, EDA (Análise Exploratória de Dados), Clustering  
 
-Here are some ideas to get you started:
+## 📝 Projetos  
+Confira meus projetos no [Medium](https://medium.com/@alexmarinho.eng) e meu portfólio aqui no GitHub!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato  
+[LinkedIn](https://www.linkedin.com/in/alexhenriquemarinho/)  
